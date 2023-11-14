@@ -1115,6 +1115,7 @@ i.home-product-item__like-icon-fill {
     color: #595959;
     font-size: 1.2rem;
     font-weight: 400;
+    padding-bottom: 5px;
 }
 .home-product-item__brand {
     
